@@ -1,5 +1,8 @@
-#GitHub pages
-https://richievg.github.io/miPaginaWeb/
+##GitHub pages
 
-#Autor 
-José Ricardo Valdivia González
+* https://richievg.github.io/miPaginaWeb/
+
+##Autor 
+
+* **José Ricardo Valdivia González**
+git ad
